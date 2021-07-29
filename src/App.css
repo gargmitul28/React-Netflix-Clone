@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+.app {
+    background-color: #111;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+
+}
